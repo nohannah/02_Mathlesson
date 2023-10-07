@@ -2,6 +2,7 @@
 # while count<100:
 #     print("programming is fun")
 #     count=count+1
+#loop substraction 
 import random 
 num1= random.randint(0,9)
 num2= random.randint(0,9)
